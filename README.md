@@ -5,5 +5,6 @@ Release builds and update feeds for Atronic Systems apps. Source code lives in e
 | Folder | App | Source |
 |---|---|---|
 | `GPS/` | Atronic GPS (Android) | https://github.com/Skisfa99/Atronic-GPS |
+| `tools/` | Atronic Tools and ARC Server (Windows and Android) | https://github.com/Skisfa99/Atronic-Tools |
 
-Each app folder holds the current APK and a `version.json` that the app reads on launch to offer updates.
+Each app folder holds the current build files and a `version.json`; the apps read their folder on launch to offer updates.
