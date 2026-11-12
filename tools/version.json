@@ -1,21 +1,21 @@
 {
     "rev":  38,
     "version":  "2.38",
-    "published":  "2026-11-12T03:39:02Z",
+    "published":  "2026-11-12T03:41:26Z",
     "files":  [
                   {
                       "name":  "ARC-Server-Setup-update-38.exe",
-                      "size":  2479448,
+                      "size":  2479440,
                       "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-Setup-update-38.exe"
                   },
                   {
-                      "name":  "ARC-Server-update-26.apk",
-                      "size":  2053182,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-26.apk"
+                      "name":  "ARC-Server-update-27.apk",
+                      "size":  2061374,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-27.apk"
                   },
                   {
                       "name":  "Atronic-Tools-Setup-update-38.exe",
-                      "size":  4304592,
+                      "size":  4304624,
                       "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-Setup-update-38.exe"
                   },
                   {
@@ -25,7 +25,7 @@
                   },
                   {
                       "name":  "Atronic-Tools-update-38.zip",
-                      "size":  2261238,
+                      "size":  2261234,
                       "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-38.zip"
                   }
               ]
