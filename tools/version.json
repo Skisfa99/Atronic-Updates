@@ -1,32 +1,32 @@
 {
-    "rev":  41,
-    "version":  "2.41",
-    "published":  "2026-11-12T04:41:37Z",
+    "rev":  42,
+    "version":  "2.42",
+    "published":  "2026-11-12T08:54:14Z",
     "files":  [
                   {
-                      "name":  "ARC-Server-Setup-update-41.exe",
-                      "size":  2479944,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-Setup-update-41.exe"
+                      "name":  "ARC-Server-Setup-update-42.exe",
+                      "size":  2479952,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-Setup-update-42.exe"
                   },
                   {
-                      "name":  "ARC-Server-update-30.apk",
+                      "name":  "ARC-Server-update-31.apk",
                       "size":  2061374,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-30.apk"
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-31.apk"
                   },
                   {
-                      "name":  "Atronic-Tools-Setup-update-41.exe",
-                      "size":  4308824,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-Setup-update-41.exe"
+                      "name":  "Atronic-Tools-Setup-update-42.exe",
+                      "size":  4308992,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-Setup-update-42.exe"
                   },
                   {
-                      "name":  "Atronic-Tools-update-29.apk",
+                      "name":  "Atronic-Tools-update-30.apk",
                       "size":  2708604,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-29.apk"
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-30.apk"
                   },
                   {
-                      "name":  "Atronic-Tools-update-41.zip",
-                      "size":  2266671,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-41.zip"
+                      "name":  "Atronic-Tools-update-42.zip",
+                      "size":  2266958,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-42.zip"
                   }
               ]
 }
