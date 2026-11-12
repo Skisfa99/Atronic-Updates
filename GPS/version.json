@@ -1,0 +1,6 @@
+{
+  "versionCode": 17,
+  "versionName": "3.02",
+  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicGPS-3.02.apk",
+  "notes": "- Updates now come from the Atronic-Updates repository\n- Park here, Enter coords and Google Maps waypoints (from 3.01)"
+}
