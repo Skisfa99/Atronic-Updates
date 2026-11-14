@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "4.02",
-  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-4.02.apk",
-  "notes": "- Day/night button: sun at night, moon by day\n- Updates install automatically when you leave the app (4.01)\n- The app is now called Atronic Speed (4.0)"
+  "versionCode": 21,
+  "versionName": "4.03",
+  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-4.03.apk",
+  "notes": "- Gauges: hold any gauge for 3 seconds to change its units in Settings\n- New Gauges section in Settings (speed, altitude, vertical speed, trip, accuracy units)\n- Course over ground follows your north reference"
 }
