@@ -2,5 +2,5 @@
   "versionCode": 19,
   "versionName": "4.01",
   "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-4.01.apk",
-  "notes": "- Atronic Speed 4.01: internal clean-up after the rename, no visible changes\n- 4.0: the app is now called Atronic Speed; settings and waypoints stay"
+  "notes": "- Updates now install automatically when you leave the app\n- Day/night button shows a sun by day and a moon at night\n- 4.0: the app is now called Atronic Speed; settings and waypoints stay"
 }
