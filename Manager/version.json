@@ -1,0 +1,13 @@
+{
+    "rev":  1,
+    "version":  "1.1",
+    "published":  "2026-11-15T19:22:13Z",
+    "files":  [
+                  {
+                      "name":  "Atronic-Manager-Setup-update-1.exe",
+                      "size":  2286784,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/Manager/Atronic-Manager-Setup-update-1.exe",
+                      "sha256":  "6784caa7f7f30107bf1d3fdecf4a4016982b4825204597758b93656c0d274d5c"
+                  }
+              ]
+}
