@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "5.27",
-  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.27.apk",
-  "notes": "- New Daylight gray look for day mode: grays, dark blues and whites, no neon\n- Night mode keeps its own theme"
+  "versionCode": 28,
+  "versionName": "5.28",
+  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.28.apk",
+  "notes": "- Sun = day mode in grays, dark blues and whites\n- Moon = night mode, neon colors are back"
 }
