@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "5.25",
-  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.25.apk",
-  "notes": "- Station map on the Tide screen: every NOAA tide station as a pin\n- Tap a pin, then Show tides, to load that station\n- Street or satellite view"
+  "versionCode": 26,
+  "versionName": "5.26",
+  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.26.apk",
+  "notes": "- Tide chart no longer sticks on an old day when flipping days quickly\n- Days you've viewed load instantly\n- If tides can't load, the chart says so and you can tap to retry"
 }
