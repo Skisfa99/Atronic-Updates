@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "5.26",
-  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.26.apk",
-  "notes": "- Tide chart no longer sticks on an old day when flipping days quickly\n- Days you've viewed load instantly\n- If tides can't load, the chart says so and you can tap to retry"
+  "versionCode": 27,
+  "versionName": "5.27",
+  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.27.apk",
+  "notes": "- New Daylight gray look for day mode: grays, dark blues and whites, no neon\n- Night mode keeps its own theme"
 }
