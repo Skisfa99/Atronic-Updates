@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "5.24",
-  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.24.apk",
-  "notes": "- New Tide section: tap TIDE at the top\n- Search a city or ZIP, or use your location, for the nearest tide station\n- Every high and low for the day, a tide chart, any date ahead, and the next 7 days"
+  "versionCode": 25,
+  "versionName": "5.25",
+  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.25.apk",
+  "notes": "- Station map on the Tide screen: every NOAA tide station as a pin\n- Tap a pin, then Show tides, to load that station\n- Street or satellite view"
 }
