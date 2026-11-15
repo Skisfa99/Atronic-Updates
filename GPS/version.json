@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "4.04",
-  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-4.04.apk",
-  "notes": "- New installs start with mph, feet, ft/min and miles on the gauges and a 100 speedometer limit\n- Hold any gauge for 3 seconds to change its units (4.03)"
+  "versionCode": 23,
+  "versionName": "4.05",
+  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-4.05.apk",
+  "notes": "- New app icon: the green target marks are now a full crosshair\n- New installs start with mph, feet, ft/min and miles on the gauges (4.04)"
 }
