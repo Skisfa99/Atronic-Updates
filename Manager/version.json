@@ -1,13 +1,19 @@
 {
-    "rev":  1,
-    "version":  "1.1",
-    "published":  "2026-11-15T19:22:13Z",
+    "rev":  2,
+    "version":  "1.2",
+    "published":  "2026-11-15T21:10:10Z",
     "files":  [
                   {
-                      "name":  "Atronic-Manager-Setup-update-1.exe",
-                      "size":  2286784,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/Manager/Atronic-Manager-Setup-update-1.exe",
-                      "sha256":  "6784caa7f7f30107bf1d3fdecf4a4016982b4825204597758b93656c0d274d5c"
+                      "name":  "Atronic-Manager-Setup-update-2.exe",
+                      "size":  2296232,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/Manager/Atronic-Manager-Setup-update-2.exe",
+                      "sha256":  "50ce80cee4ba9577a099c3c69b1b90705d401c12d39a0e7ca0d8d23afcdc601a"
+                  },
+                  {
+                      "name":  "Atronic-Manager-update-2.apk",
+                      "size":  99187,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/Manager/Atronic-Manager-update-2.apk",
+                      "sha256":  "aa02257d65aaf775222072e70b246c230f11b9e6c7a8a139526ba5c909057790"
                   }
               ]
 }
