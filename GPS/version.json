@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "5.28",
-  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.28.apk",
-  "notes": "- Sun = day mode in grays, dark blues and whites\n- Moon = night mode, neon colors are back"
+  "versionCode": 29,
+  "versionName": "5.29",
+  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/GPS/AtronicSpeed-5.29.apk",
+  "notes": "- Nav tab: the Map button opens a free OpenStreetMap\n- Tap a spot, then Save waypoint, and it goes straight into your waypoints"
 }
