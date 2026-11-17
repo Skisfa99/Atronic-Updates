@@ -1,0 +1,6 @@
+{
+  "versionCode": 3000,
+  "versionName": "3.0",
+  "apkUrl": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/sync/apk/3.0/AtronicSync3.0.apk",
+  "notes": "- Atronic Books theme (navy)\n- Install Updates also checks the network share\n- New app id com.atronicsystems.atronicsync (fresh install over 2.1)"
+}
