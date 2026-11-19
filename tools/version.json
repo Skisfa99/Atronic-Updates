@@ -1,43 +1,43 @@
 {
-    "rev":  92,
-    "version":  "4.92",
-    "published":  "2026-11-19T16:22:08Z",
+    "rev":  93,
+    "version":  "4.93",
+    "published":  "2026-11-19T16:25:23Z",
     "files":  [
                   {
-                      "name":  "ARC-Server-Setup-update-92.exe",
+                      "name":  "ARC-Server-Setup-update-93.exe",
                       "size":  2507760,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-Setup-update-92.exe",
-                      "sha256":  "ea2c119e50bb1bb371b2396d80627feb8e3e94832985fc0a0f31067daf980baa"
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-Setup-update-93.exe",
+                      "sha256":  "24453d66ba8cf9f08135da2080f2bd4a638eafdbde0c057df0d9e563975f945a"
                   },
                   {
-                      "name":  "ARC-Server-update-92.apk",
+                      "name":  "ARC-Server-update-93.apk",
                       "size":  2073662,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-92.apk",
-                      "sha256":  "76b09fd03f90806962d824a418d738fdae171c9e9ad861e803a11f283ef6cfb8"
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-93.apk",
+                      "sha256":  "3d71f337ed1da71378ba68f9f4ee66af4339898e68783c1b27d74eff569ce614"
                   },
                   {
-                      "name":  "ARC-Server-update-92.msi",
+                      "name":  "ARC-Server-update-93.msi",
                       "size":  512000,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-92.msi",
-                      "sha256":  "33c7132c6af80ce64f56d99e6152c9cc7828101673b9f440f5db6f1d93f125f5"
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-93.msi",
+                      "sha256":  "90f76ed0a5bec2ce802800369c8b629042ec191515ddaf3fbdef0080c7254104"
                   },
                   {
-                      "name":  "Atronic-Tools-Setup-update-92.exe",
-                      "size":  4372984,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-Setup-update-92.exe",
-                      "sha256":  "39dbbbe432bf7d6e5c5fd98a3b8fe189130f53ee8c76b51d05622b246912c567"
+                      "name":  "Atronic-Tools-Setup-update-93.exe",
+                      "size":  4372992,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-Setup-update-93.exe",
+                      "sha256":  "04adacb1752835d19d4a77017b391d179dbc7f393c563a2bcaf3d1b39fd73bda"
                   },
                   {
-                      "name":  "Atronic-Tools-update-92.apk",
+                      "name":  "Atronic-Tools-update-93.apk",
                       "size":  2716796,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-92.apk",
-                      "sha256":  "dda71dce0b1b60c362d0adcf4692db45a27949fd3b70c68d8ba6fa3b4d8c5807"
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-93.apk",
+                      "sha256":  "ea837f422d89adefe3a5d36ec8b4c44826aef700faa4177c390840600aee2214"
                   },
                   {
-                      "name":  "Atronic-Tools-update-92.zip",
-                      "size":  2346405,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-92.zip",
-                      "sha256":  "d73a1bdd9ba125e85d08e94883d9e2104ef2191aeb2061c9cdb70071384bb800"
+                      "name":  "Atronic-Tools-update-93.zip",
+                      "size":  2346354,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-93.zip",
+                      "sha256":  "9d8ad4533915ad7fb9f4f4bb95a2aa40b830d1348e6bd61add0c5105905a00e9"
                   }
               ]
 }
