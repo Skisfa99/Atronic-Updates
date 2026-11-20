@@ -1,43 +1,43 @@
 {
-    "rev":  101,
-    "version":  "4.101",
-    "published":  "2026-11-20T02:36:14Z",
+    "rev":  102,
+    "version":  "4.102",
+    "published":  "2026-11-20T02:52:58Z",
     "files":  [
                   {
-                      "name":  "ARC-Server-Setup-update-101.exe",
-                      "size":  2610016,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-Setup-update-101.exe",
-                      "sha256":  "622c4a9178b83f22c8c1889b9ee9db6ba1ae9faa9b4f289b039493c9e4cde531"
+                      "name":  "ARC-Server-Setup-update-102.exe",
+                      "size":  2610776,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-Setup-update-102.exe",
+                      "sha256":  "b42dce193adbe63d56e4c3985aa881834e75ea3cd4186c860e58fe658b1435c3"
                   },
                   {
-                      "name":  "ARC-Server-update-101.apk",
+                      "name":  "ARC-Server-update-102.apk",
                       "size":  2073662,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-101.apk",
-                      "sha256":  "b2f7c764fbda4dbdabc3f549ef5f46db909d69cdd72e2d00bf27ceef323fd835"
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-102.apk",
+                      "sha256":  "371cda8beca2dfdbf733cde4139aa99263e95e480e60aa2025d00b1d24a97f31"
                   },
                   {
-                      "name":  "ARC-Server-update-101.msi",
+                      "name":  "ARC-Server-update-102.msi",
                       "size":  614400,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-101.msi",
-                      "sha256":  "2fde2726ad9dd296b52ebef44e379a57982fd3fcf372a9f1f4235c1080a6ff56"
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/ARC-Server-update-102.msi",
+                      "sha256":  "e235f03ddc04b80c7b56466602a5ef3a64dce3be634af3d082a8b307708e87f8"
                   },
                   {
-                      "name":  "Atronic-Tools-Setup-update-101.exe",
-                      "size":  4482024,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-Setup-update-101.exe",
-                      "sha256":  "764b46c03a80ff8882833bd6a072b293ae4862228a1b13e12be051281f98658a"
+                      "name":  "Atronic-Tools-Setup-update-102.exe",
+                      "size":  4482816,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-Setup-update-102.exe",
+                      "sha256":  "854fca3d1ea65120b3de047384c74d5060f619d4c2ca73c5ee84c8d2869882f1"
                   },
                   {
-                      "name":  "Atronic-Tools-update-101.apk",
+                      "name":  "Atronic-Tools-update-102.apk",
                       "size":  2716796,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-101.apk",
-                      "sha256":  "44ed99235cf02760a44b5c4e2547251e0f5975236bf4b86d13cb282137a70694"
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-102.apk",
+                      "sha256":  "b063322cd0e31e25bd57d1974db8455187abce52ef21052ed5ca5740f71ebbae"
                   },
                   {
-                      "name":  "Atronic-Tools-update-101.zip",
-                      "size":  2458962,
-                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-101.zip",
-                      "sha256":  "94ad73304e550f70f652aaae584da79b9675342178c54bd3e2c6e6bc323e9703"
+                      "name":  "Atronic-Tools-update-102.zip",
+                      "size":  2459690,
+                      "url":  "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/tools/Atronic-Tools-update-102.zip",
+                      "sha256":  "46181077a1a6ab5601f584925be576f12b68b1ee1895feac52a0129046f9044c"
                   }
               ]
 }
