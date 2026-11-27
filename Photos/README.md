@@ -1,7 +1,7 @@
 # Atronic Photos updates
 
-Current: update 4 (version 2.4). Atronic Photos checks this folder and installs newer APKs signed with its key.
+Current: update 5 (version 2.5). Atronic Photos checks this folder and installs newer APKs signed with its key.
 
 | File | What it is |
 |---|---|
-| [Atronic-Photos-update-4.apk](Atronic-Photos-update-4.apk) | Atronic Photos for Android (open it on the phone; it updates itself after that) |
+| [Atronic-Photos-update-5.apk](Atronic-Photos-update-5.apk) | Atronic Photos for Android (open it on the phone; it updates itself after that) |
