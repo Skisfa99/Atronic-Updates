@@ -1,8 +1,8 @@
 {
-  "rev": 6,
-  "version": "2.6",
-  "published": "2026-11-28T02:17:56Z",
+  "rev": 7,
+  "version": "2.7",
+  "published": "2026-11-28T02:37:06Z",
   "files": [
-    { "name": "Atronic-Photos-update-6.apk", "size": 18259629, "url": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/Photos/Atronic-Photos-update-6.apk", "sha256": "990e2880e46fe2579990e39dda231bbfe4bc71c2760e75a1d6164d50553f7419" }
+    { "name": "Atronic-Photos-update-7.apk", "size": 18268937, "url": "https://raw.githubusercontent.com/Skisfa99/Atronic-Updates/main/Photos/Atronic-Photos-update-7.apk", "sha256": "28611650b83942b4249d2367e2f22e414e25d5d5bd4e8fe97bba8cedee8502a0" }
   ]
 }
